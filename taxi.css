@@ -1,0 +1,205 @@
+@charset "utf-8";
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family:"游ゴシック Medium",YuGothic,YuGothicM,"Hiragino Kaku Gothic ProN","Hiragino Kaku Gothic Pro",メイリオ,Meiryo,sans-serif;
+}
+#all
+{
+    width: 1000px;
+    margin:auto;
+    top: 0;
+    left: 0;
+}
+a
+{
+	text-decoration: none;
+	color: gray;
+}
+a:hover
+{
+	color: red;
+}
+body
+{
+    background-image:url("p0521_l.jpg");
+    background-attachment: fixed;
+    width:100%;
+    margin: auto;
+}
+li
+{
+    list-style: none;
+    display:inline-block;
+}
+ul
+{
+    font-size: 0px;
+    width: 100%;
+}
+#help
+{
+    text-decoration: none;
+    color: white;
+    text-indent: 1px;
+    text-align: right;
+    margin-right: 30px;
+    
+}
+#container
+{
+	margin:auto;
+    padding: auto; 
+}
+#top
+{    
+    background-image: url("flower-back0130.jpg");
+    background-position: 100% 100%;
+    width: 100%;
+    height: 40px;
+}
+h1
+{
+    color: red;
+    text-align: center;
+    margin: 60px;
+	font-size: 50px;
+	width: 95%;
+}
+#menu
+{
+    text-align: center;
+	width: 960px;
+	margin: auto;
+}
+#menu li
+{
+    background-image:url("mizu1.png");
+    border-radius: 5px;
+	font-size:20px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+	margin: 5px;
+}
+#kuuhaku
+{
+	margin: 40px;
+}
+#kuuhaku1
+{
+	margin:20px;
+	float: left;
+	width:1000px;
+}
+#fukushi
+{
+	font-size: 50px;
+	width:600px;
+	color: brown;
+    text-align: center;
+}
+#i01
+{
+	font-size:25px;
+	width: 570px;
+	padding-left: 30px;
+}
+#main1
+{
+	width: 570px;
+    background-color:navajowhite;
+	text-align: left;
+    float: left;
+    border-radius: 10px;
+
+}
+#main
+{   
+    float: left;
+    width:600px;
+    margin-left:40px;
+}
+#tel
+{
+	float: left;
+	background-image: url(木くず.png);
+	border-radius: 5px;
+	width: 300px;
+	text-align: center;
+	font-size: 28px;
+}
+#tel0
+{
+	text-align: left;
+	font-size:16px;
+    text-align: center;
+}
+#tel1
+{
+	float: left;
+	width: 300px;
+	text-align: center;
+}
+#inquiry
+{
+	background-color: darkseagreen;
+	float: left;
+    width:300px;
+    border-radius: 5px;
+}
+#kaiteki
+{
+	float: left;
+	width: 800px;
+	font-size: 30px;
+	text-align: center;
+	background-color: gray;
+    border-radius: 5px;
+    padding-left: 8px;
+}
+#kaiteki1
+{
+	width:1000px;
+	position:relative;
+	top:0px;
+	left: 100px;
+	margin: inherit;
+}
+#menuall
+{
+	width: 1000px;
+	position: relative;
+	top: 0px;
+	left: 120px;
+	margin: inherit;
+}
+#annaiall
+{
+	float: left;
+	width:500px;
+}
+#annai
+{
+	float: left;
+	width:500px;
+	font-size: 30px;
+}
+#annai1
+{
+	width: 500px;
+	float: left;
+}
+#konnaall
+{
+	width:400px;
+	float: left;
+}
+#konna
+{
+	float: left;
+	width: 400px;
+	font-size: 30px;
+}
